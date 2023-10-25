@@ -1,2 +1,2 @@
 # deployment-pipeline
-Deploy and HTML file using CICD automation.
+Deploy a HTML file using CICD automation.
